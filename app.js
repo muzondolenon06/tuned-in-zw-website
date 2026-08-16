@@ -1,6 +1,6 @@
 // TODO: Before uploading to Vercel/Netlify, replace this with your Render URL
 // Example: const API_BASE = 'https://tuned-in-zw-api.onrender.com';
-const API_BASE = 'http://localhost:8002';
+const API_BASE = 'https://tuned-in-zw-backend.onrender.com';
 
 // -----------------------------------------
 // Navigation Logic
